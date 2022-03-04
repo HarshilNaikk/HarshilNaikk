@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harshil Naik!
-I'm an aerospace engineering student from the Indian Institute of Technology Bombay, currently pursuing my dream in the field of robotics and autonomous vehicles. 
+I'm an Aerospace engineering student from the Indian Institute of Technology Bombay, currently pursuing my dream in the field of robotics and autonomous vehicles. 
 
 - 👀 I’m interested in Guidance and Control strategies for autonomous robots, particularly aerial vehicles and quadrupeds.
  
