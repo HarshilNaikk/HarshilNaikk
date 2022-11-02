@@ -7,12 +7,9 @@ I'm an Aerospace engineering student from the Indian Institute of Technology Bom
 
 - 💞️ I’m looking to collaborate on anything regarding autonomous robotics and knitting (a hobby of mine)
 
-- 📫 How to reach me - Via email (harshildnaik@gmail.com)
+- 💻 Personal Website - https://sites.google.com/view/harshilnaik/home
 
-- Interesting Links I found recently - 
-- https://github.com/balloch/awesome-robotics-ai-companies
-- https://github.com/AmosLewis/Awesome-Robotics
-- https://github.com/jiachenli94/Awesome-Decision-Making-Reinforcement-Learning
+- 📫 How to reach me - Via email (harshildnaik@gmail.com)
 
 <!---
 HarshilNaikk/HarshilNaikk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
